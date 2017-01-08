@@ -1,2 +1,2 @@
 # STMS
-A simplified version of ITSM
+A simplified version of ITSM. Working on a simplified solution for small business.
